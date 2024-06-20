@@ -1,0 +1,11 @@
+__pycache__
+venv
+.env
+airflow.cfg
+airflow-webserver.pid
+webserver_config.py
+page.html
+output.csv
+airflow.db
+/logs
+.idea/
